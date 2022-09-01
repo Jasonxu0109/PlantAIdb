@@ -1,2 +1,2 @@
-# PlantAIdb-
+# PlantAIdb
 RNA editing
