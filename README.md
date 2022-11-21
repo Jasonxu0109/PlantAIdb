@@ -3,6 +3,7 @@ The RNAeditDB coming soon: 2022-11-21
 
 ## [Welcome to RNAeditDB]()
 
+RNAeditDB is a database for identification of C-to-U RNA editing sites in the chloroplast of mangrove species
 
 # Schematic diagram of PlantC2U model construction
 
