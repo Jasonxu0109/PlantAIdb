@@ -1,5 +1,8 @@
-# PlantC2U
-PlantC2U: Deep learning of cross-species sequence landscapes predicts C-to-U RNA editing
+# News - PlantC2U
+The RNAeditDB coming soon: 2022-11-21
+
+## [Welcome to RNAeditDB]()
+
 
 # Schematic diagram of PlantC2U model construction
 
