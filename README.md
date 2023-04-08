@@ -1,5 +1,5 @@
 # News - PlantC2U
-The RNAeditDB coming soon: 2022-11-21
+The RNAeditDB coming soon: 2023-4-8
 
 ## [Welcome to RNAeditDB]()
 
