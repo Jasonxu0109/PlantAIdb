@@ -1,4 +1,7 @@
 # News - PlantC2U
+
+RNAeditDB website is online. The web server address is https://jasonxu.shinyapps.io/RNAeditDB/. 2023-04-11
+
 The RNAeditDB coming soon: 2023-4-8
 
 ## [Welcome to RNAeditDB](https://jasonxu.shinyapps.io/RNAeditDB/)
