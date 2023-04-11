@@ -1,7 +1,7 @@
 # News - PlantC2U
 The RNAeditDB coming soon: 2023-4-8
 
-## [Welcome to RNAeditDB]()
+## [Welcome to RNAeditDB](https://jasonxu.shinyapps.io/RNAeditDB/)
 
 RNAeditDB is a database for identification of C-to-U RNA editing sites in the chloroplast of mangrove species
 
