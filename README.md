@@ -17,3 +17,8 @@ RNAeditDB is a database for identification of C-to-U RNA editing sites in the ch
 
 
 ![图片](https://user-images.githubusercontent.com/11934986/200177071-788c4956-5d49-4083-a866-f01b25b62f27.png)
+
+# Cite
+Please cite the following paper if you used PlantC2U and RNAeditDB in your research.  
+
+Xu, C., Zheng, H.-L. (2023) PlantC2U: Deep learning of cross-species sequence landscapes predicts chloroplast C-to-U RNA editing in plants.
