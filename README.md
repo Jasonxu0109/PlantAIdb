@@ -1,8 +1,17 @@
 # News - PlantC2U
 
-In this study, we developed PlantC2U by utilizing a convolutional neural network (CNN) for genome sequence-dependent identification of plastid C-to-U RNA editing sites in plants. PlantC2U achieves over 95% sensitivity and 99% specificity, which outperforms random forest (RF)and support vector machine (SVM). PlantC2U not only further checks RNA editing sites from transcriptome data to reduce the possible false positives, but also assesses the effect of different mutations on C-to-U RNA editing status based on the flanking sequences
+In this study, we developed PlantC2U by utilizing a convolutional neural network (CNN) for genome sequence-dependent identification of plastid C-to-U RNA editing sites in plants. PlantC2U achieves over 95% sensitivity and 99% specificity, which outperforms random forest (RF)and support vector machine (SVM). PlantC2U not only further checks RNA editing sites from transcriptome data to reduce the possible false positives, but also assesses the effect of different mutations on C-to-U RNA editing status based on the flanking sequences.
 
 ## Requirements
+
+
+## Dependencies 
+* R version >= 4.0.0.
+* R packages: keras, tensorflow
+
+The R codes have been tested successfully on Operating systems: 
+* Windows 10
+
 RNAeditDB website is online. The web server address is https://jasonxu.shinyapps.io/RNAeditDB/. 2023-04-11
 
 The RNAeditDB coming soon: 2023-4-8
