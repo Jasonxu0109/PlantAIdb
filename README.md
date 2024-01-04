@@ -1,6 +1,6 @@
 # News - PlantC2U
 
-#### Xu C, Li J, Song L-Y, Guo Z-J, Song S-W, Zhang L-D, Zheng H-L. 2023. PlantC2U: Deep learning of cross-species sequence landscapes predict plastid C-to-U RNA editing in plants. (*Journal of Experimental Botany*; Impact Factor 6.9; accepted ) 2024-01-04
+#### Xu C<sup>1,2</sup>, Li J<sup>1,2</sup>, Song L-Y<sup>1,2</sup>, Guo Z-J<sup>1</sup>, Song S-W<sup>1</sup>, Zhang L-D<sup>1</sup>, Zheng H-L<sup>1,*</sup>. PlantC2U: Deep learning of cross-species sequence landscapes predict plastid C-to-U RNA editing in plants. (*Journal of Experimental Botany*; Impact Factor 6.9; accepted ) 2024-01-04
 
 In this study, we developed PlantC2U by utilizing a convolutional neural network (CNN) for genome sequence-dependent identification of plastid C-to-U RNA editing sites in plants. PlantC2U achieves over 95% sensitivity and 99% specificity, which outperforms random forest (RF) and support vector machine (SVM). PlantC2U not only further checks RNA editing sites from transcriptome data to reduce the possible false positives, but also assesses the effect of different mutations on C-to-U RNA editing status based on the flanking sequences.
 
